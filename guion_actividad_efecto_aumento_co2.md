@@ -40,9 +40,15 @@ Las siguientes secciones se han creado automáticamente por la IA perplexity a p
 
 Además, durante la explicación hice un esquema en la pizarra. Puedes verlo a continuación. 
 
-![terrestres](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/clase_ecosistemas_terrestres.jpg)
+![terrestres_pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/clase_ecosistemas_terrestres.jpg)
 
 
+
+Por último, me he atrevido a pedirle a la IA Notebook LM que genere una infografía a partir de la transcripción del audio de la clase. Puedes verla a continuación:
+
+
+
+![terrestres_ia](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/efecto_co2_terrestres_ia.png)
 
 
 
@@ -142,7 +148,7 @@ En el caso del CO₂:
 - Cuarta orden: Presión sobre herbívoros → Presión sobre carnívoros → Cambios en estructura de redes tróficas
 
 
-
+## Ecosistemas acuáticos
 
 
 
@@ -155,10 +161,10 @@ En el caso del CO₂:
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/A_biogeo_vs_metapobla_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
