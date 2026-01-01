@@ -6,6 +6,8 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: 1,5 horas de trabajo en clase.
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/portada.png)
+
 
 
 ## Objetivos 
