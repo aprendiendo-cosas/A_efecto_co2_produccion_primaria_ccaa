@@ -150,6 +150,7 @@ En el caso del CO₂:
 - Cuarta orden: Presión sobre herbívoros → Presión sobre carnívoros → Cambios en estructura de redes tróficas
 
 
+
 ## Ecosistemas acuáticos
 
 El siguiente esquema muestra lo que pinté en la pizarra para estudiar el efecto del aumento del  CO₂ en los océanos
@@ -160,11 +161,7 @@ El siguiente esquema muestra lo que pinté en la pizarra para estudiar el efecto
 
 Al igual que antes, he pedido a NotebookLM que haga una infografía con la explicación dada en clase:
 
-
-
-
-
-
+![acuaticos_ia](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/tags/2025_2026/imagenes/efecto_co2_acuaticos_ia.png)
 
 
 
