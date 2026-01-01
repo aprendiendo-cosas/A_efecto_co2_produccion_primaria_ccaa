@@ -40,6 +40,11 @@ Las siguientes secciones se han creado automáticamente por la IA perplexity a p
 
 Además, durante la explicación hice un esquema en la pizarra. Puedes verlo a continuación. 
 
+![terrestres](https://raw.githubusercontent.com/aprendiendo-cosas/A_efecto_aumento_co2_funcionamiento_ccaa/refs/heads/main/imagenes/clase_ecosistemas_terrestres.jpg)
+
+
+
+
 
 ### Producción Primaria y Aumento de CO₂: La Hipótesis Inicial
 
